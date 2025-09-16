@@ -18,7 +18,6 @@ This is an example post.
 ## Section1
 ### Subsection1
 Hello, world!
-
 ## Section2
 
 ***References:***
