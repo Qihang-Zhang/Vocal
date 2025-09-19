@@ -11,7 +11,7 @@ authors:
   - <qihang>
 ---
 # Example in Vocal
-This is an example post.
+This is an example post in Vocal.
 <!-- more -->
 ## Overview
 [TOC]
