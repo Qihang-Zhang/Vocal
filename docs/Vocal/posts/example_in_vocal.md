@@ -10,7 +10,7 @@ slug: example-in-vocal
 authors:
   - <qihang>
 ---
-# Example in Vocal
+# An Example Post In Vocal
 This is an example post in Vocal.
 <!-- more -->
 ## Overview
