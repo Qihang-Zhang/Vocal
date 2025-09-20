@@ -1,9 +1,13 @@
 INHERIT: ./customized_mkdocs/base_mkdocs.yml
 
-site_name: Vocal
+site_name: Riffing
 
-site_url: https://qihang-zhang.github.io/Vocal
+site_url: https://qihang-zhang.github.io/Riffing
 
 plugins:
   blog:
-    blog_dir: Vocal
+    blog_dir: Riffing
+
+theme:
+  custom_dir: overrides
+  
