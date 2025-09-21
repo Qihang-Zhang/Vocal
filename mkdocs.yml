@@ -1,0 +1,18 @@
+INHERIT: ./customized_mkdocs/base_mkdocs.yml
+
+site_name: Vocal
+
+site_url: https://qihang-zhang.github.io/Vocal
+
+plugins:
+  blog:
+    blog_dir: Vocal
+
+theme:
+  custom_dir: overrides
+  
+# Comments used to test Github Actions
+nav: 
+  - index.md
+  - Vocal: 
+    - index: Vocal/index.md
