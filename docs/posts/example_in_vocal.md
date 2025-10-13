@@ -1,5 +1,5 @@
 ---
-tags: [Random Thoughts]
+categories: [Random Thoughts]
 date: 2025-09-15
 draft: false
 comments: true
